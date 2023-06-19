@@ -1,1 +1,1 @@
-alert("s");
+alert("");
